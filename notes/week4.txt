@@ -1,0 +1,5 @@
+Well done with HW!
+In lab, your outputs were incorrect for couple of questions (1, 5 etc.)
+
+hw: 100
+lab: 75
